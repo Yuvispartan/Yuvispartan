@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuvispartan
+- 👋 Hi, I’m Yuvanesh (@Yuvispartan)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning BE CSE
 - 💞️ I’m looking to collaborate on projects
